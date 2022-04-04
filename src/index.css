@@ -1,3 +1,11 @@
+html {
+  background: url('https://wallpaperaccess.com/full/2029165.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height :100%
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
